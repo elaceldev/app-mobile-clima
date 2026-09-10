@@ -28,7 +28,7 @@ npx expo start
 Desenvolvedora
 
 Elaine Celestino
-Estudante de Técnico em Desenvolvimento de Sistemas
+Curso Técnico em Desenvolvimento de Sistemas
 
 Licença
 
