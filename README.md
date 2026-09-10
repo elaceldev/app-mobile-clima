@@ -1,27 +1,35 @@
-# 📱 App Mobile - Clima e Formulário
+App Mobile Clima e Formulário
 
-Aplicativo mobile desenvolvido em **React Native** com **Expo** como parte do curso Técnico em Desenvolvimento de Sistemas.
+Aplicativo mobile desenvolvido em React Native com Expo como parte do curso Técnico em Desenvolvimento de Sistemas.
 
-## 🎯 Funcionalidades
+Funcionalidades
 
-- ✅ **Autenticação** (Login e Cadastro com validação)
-- ✅ **Navegação por abas** (Bottom Tabs + Stack Navigation)
-- ✅ **Formulário dinâmico** (TextInput, Picker, Slider, Switch)
-- ✅ **Consumo de API** de clima em tempo real
-- ✅ **Persistência de dados** com AsyncStorage
+Autenticação com Login e Cadastro de usuário
+Navegação por abas inferiores
+Formulário dinâmico com TextInput, Picker, Slider e Switch
+Consumo de API de clima em tempo real
+Persistência de dados com AsyncStorage
 
-## 🛠 Tecnologias Utilizadas
+Tecnologias Utilizadas
 
-- React Native
-- Expo
-- React Navigation (Stack + Bottom Tabs)
-- AsyncStorage
-- API Open-Meteo
+React Native
+Expo
+React Navigation (Stack e Bottom Tabs)
+AsyncStorage
+API Open-Meteo
 
-## 🚀 Como Executar
+Como Executar
 
-```bash
 git clone https://github.com/elaceldev/app-mobile-clima.git
 cd app-mobile-clima
 npm install
 npx expo start
+
+Desenvolvedora
+
+Elaine Celestino
+Estudante de Técnico em Desenvolvimento de Sistemas
+
+Licença
+
+Este projeto está sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
